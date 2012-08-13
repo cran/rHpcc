@@ -1,0 +1,17 @@
+exportPattern("^[[:alpha:]]+")
+exportClasses(
+    "ECL",
+     "ECLDataset",
+     "ECLDedUp",
+     "ECLDistribute",
+     "ECLIterate",
+     "ECLJoin",
+     "ECLOutput",
+     "ECLProject",
+     "ECLRecord",
+     "ECLRollUp",
+     "ECLSort",
+     "ECLTable",
+     "ECLTOPN",
+     "ECLTransform" 
+)
